@@ -1,7 +1,5 @@
-import HomePage from './HomePage';
-import WeiGuanPage from './WeiGuanPage';
+import HomePage from "./HomePage";
+import WeiGuanPage from "./WeiGuanPage";
+import GwynethPage from "./GwynethPage";
 
-export {
-    HomePage,
-    WeiGuanPage
-}
+export { HomePage, WeiGuanPage, GwynethPage };

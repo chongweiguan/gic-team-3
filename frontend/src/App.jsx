@@ -1,4 +1,4 @@
-import { HomePage, WeiGuanPage } from "./pages";
+import { HomePage, WeiGuanPage, GwynethPage } from "./pages";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { CssBaseline } from "@mui/material";
 import React from "react";
