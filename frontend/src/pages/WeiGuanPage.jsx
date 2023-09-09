@@ -3,7 +3,7 @@ import { React } from 'react';
 const WeiGuanPage = () => {
   return (
     <div>
-        Wei Guan Page
+        Wei Guan Page Testing
     </div>
   )
 }
